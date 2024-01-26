@@ -14,7 +14,7 @@ do
     then
         echo "Buzz"
     else
-        echo "$COUNTER"
+        echo "$COUUNTER
     fi
-    let COUNTER+=1
+   let COUNTER+=1
 done
